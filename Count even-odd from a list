@@ -1,3 +1,4 @@
+#insight execution
 lst=[20,25,21,14,16,15]
 def fun(a):
 	even=0
